@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "I'm Just a Kid",
+  "base_artist": "Simple Plan",
+  "createdAt": "2026-03-02T01:14:53.859454Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Just a Kid",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/01_I'm_Just_a_Kid_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Just A Kid",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/02_I'm_Just_A_Kid_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Just a Kid",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/03_I'm_Just_a_Kid_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "im just a kid",
+      "artist": "simple plan",
+      "has_synced": true,
+      "path": "select/04_im_just_a_kid_simple_plan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Just a Kid",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/05_I'm_Just_a_Kid_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I’m Just a Kid",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/06_I’m_Just_a_Kid_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm Just A Kid",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/07_I'm_Just_A_Kid_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Just a Kid",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/08_I'm_Just_a_Kid_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I’m Just a Kid",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/09_I’m_Just_a_Kid_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm Just a Kid",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/10_I'm_Just_a_Kid_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm Just a Kid [Live]",
+      "artist": "Simple Plan",
+      "has_synced": false,
+      "path": "select/11_I'm_Just_a_Kid_[Live]_Simple_Plan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm Just a Kid",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/12_I'm_Just_a_Kid_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm Just a Kid",
+      "artist": "Hall & Oates",
+      "has_synced": false,
+      "path": "select/13_I'm_Just_a_Kid_Hall_&_Oates.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm Just a Country Boy",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/14_I'm_Just_a_Country_Boy_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm Just A Country Boy (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/15_I'm_Just_A_Country_Boy_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'm Just A Singer (In A Rock And Roll Band)",
+      "artist": "The Moody Blues",
+      "has_synced": false,
+      "path": "select/16_I'm_Just_A_Singer_(In_A_Rock_And_Roll_Band)_The_Moody_Blues.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'm Just A Singer (In A Rock And Roll Band)",
+      "artist": "The Moody Blues",
+      "has_synced": true,
+      "path": "select/17_I'm_Just_A_Singer_(In_A_Rock_And_Roll_Band)_The_Moody_Blues.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'm Just A Killer For Your Love",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/18_I'm_Just_A_Killer_For_Your_Love_Blur.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I'm Just A Man",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/19_I'm_Just_A_Man_INXS.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Guess I'm Just a Little Too Sensitive",
+      "artist": "Ivy",
+      "has_synced": true,
+      "path": "select/20_I_Guess_I'm_Just_a_Little_Too_Sensitive_Ivy.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "I'm Just a Girl in Love",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Rachel Bloom",
+      "has_synced": true,
+      "path": "select/21_I'm_Just_a_Girl_in_Love_Crazy_Ex-Girlfriend_Cast_feat._Rachel_Bloom.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I'm Just A Boy In Love",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Paul Welsh",
+      "has_synced": true,
+      "path": "select/22_I'm_Just_A_Boy_In_Love_Crazy_Ex-Girlfriend_Cast_feat._Paul_Welsh.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I’m Just a Boy in Love",
+      "artist": "Crazy Ex-Girlfriend Cast feat․ Paul Welsh",
+      "has_synced": true,
+      "path": "select/23_I’m_Just_a_Boy_in_Love_Crazy_Ex-Girlfriend_Cast_feat._Paul_Welsh.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Baby I'm Just a Fool",
+      "artist": "Spiritualized",
+      "has_synced": true,
+      "path": "select/24_Baby_I'm_Just_a_Fool_Spiritualized.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "I'm Just a Country Boy",
+      "artist": "Sam Cooke",
+      "has_synced": true,
+      "path": "select/25_I'm_Just_a_Country_Boy_Sam_Cooke.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "I'm Just a Lucky So and So",
+      "artist": "Sam Cooke",
+      "has_synced": false,
+      "path": "select/26_I'm_Just_a_Lucky_So_and_So_Sam_Cooke.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "I'm Just a Woman",
+      "artist": "Bonnie Tyler",
+      "has_synced": false,
+      "path": "select/27_I'm_Just_a_Woman_Bonnie_Tyler.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "I'm Just a Killer for Your Love (2012 Remaster)",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/28_I'm_Just_a_Killer_for_Your_Love_(2012_Remaster)_Blur.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "I'm Just A Patsy",
+      "artist": "Manic Street Preachers",
+      "has_synced": true,
+      "path": "select/29_I'm_Just_A_Patsy_Manic_Street_Preachers.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "I'm Just a Clown",
+      "artist": "Charley Crockett",
+      "has_synced": true,
+      "path": "select/30_I'm_Just_a_Clown_Charley_Crockett.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm Just a Kid",
+      "artist": "Simple Plan",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_Just_a_Kid_Simple_Plan.txt"
+    }
+  ]
+}
